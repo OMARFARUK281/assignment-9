@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "icon": "https://cdn4.iconfinder.com/data/icons/saving-and-investment-12/64/Saving-account-calculator-bank-finance-512.png",
+        "title": "Account & Finance",
+        "pgh": "300 Jobs Available"
+    },
+    {
+        "id": 2,
+        "icon": "https://cdn1.iconfinder.com/data/icons/meta-skills/64/innovation-technology-idea-digital-creative-512.png",
+        "title": "Creative Design",
+        "pgh": "100+ Jobs Available"
+    },
+    {
+        "id": 3,
+        "icon": "https://cdn0.iconfinder.com/data/icons/customer-relationship-management-10/64/Converted-lead-customers-marketing-sales-512.png",
+        "title": "Marketing & Sales",
+        "pgh": "150 Jobs Available"
+    },
+    {
+        "id": 4,
+        "icon": "https://cdn0.iconfinder.com/data/icons/data-science-2-3/66/119-512.png",
+        "title": "Engineering Job",
+        "pgh": "224 Jobs Available"
+    },
+    {
+        "id": 5,
+        "icon": "https://cdn1.iconfinder.com/data/icons/meta-skills/64/innovation-technology-idea-digital-creative-512.png",
+        "title": "Creative Design",
+        "pgh": "100+ Jobs Available"
+    },
+    {
+        "id": 6,
+        "icon": "https://cdn0.iconfinder.com/data/icons/data-science-2-3/66/119-512.png",
+        "title": "Engineering Job",
+        "pgh": "224 Jobs Available"
+    },
+
+
+
+
+    {
+        "id": 7,
+        "icon": "https://img.freepik.com/premium-vector/google-search-logo_578229-273.jpg?w=1380",
+        "title": "Technical Database Engineer",
+        "pgh": "Google LLC",
+        "location": "Dhaka, Bangladesh",
+        "salary": "Salary: 100k - 150k"
+    },
+    {
+        "id": 8,
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png",
+        "title":"Senior Product Designer",
+        "pgh": "Netflix",
+        "location": "Dhaka, Bangladesh",
+        "salary": "Salary: 100k - 150k"
+    },
+    {
+        "id": 9,
+        "icon": "https://logowik.com/content/uploads/images/tesla.jpg",
+        "title": "Software Engineer",
+        "pgh": "Tesla",
+        "location": "Dhaka, Bangladesh",
+        "salary": "Salary: 100k - 150k"
+    },
+    { 
+        "id": 10,
+        "icon": "https://img.freepik.com/premium-vector/google-search-logo_578229-273.jpg?w=1380",
+        "title": "Technical Database Engineer",
+        "pgh": "Google LLC",
+        "location": "Dhaka, Bangladesh",
+        "salary": "Salary: 100k - 150k"
+    },
+    {
+        "id": 11,
+        "icon": "https://logowik.com/content/uploads/images/tesla.jpg",
+        "title": "Software Engineer",
+        "pgh": "Tesla",
+        "location": "Dhaka, Bangladesh",
+        "salary": "Salary: 100k - 150k"
+    },
+    {
+        "id": 12,
+        "icon": "https://www.freepnglogos.com/uploads/amazon-png-logo-vector/amazon-png-logo-vector-1.png",
+        "pgh": 120,
+        "title": 50,
+        "location": "Dhaka, Bangladesh",
+        "salary": "Salary: 100k - 150k"
+    }
+]

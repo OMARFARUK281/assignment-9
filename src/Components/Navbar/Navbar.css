@@ -8,27 +8,28 @@
     
 }
 .title-bar{
-    width: 320px;
+    width: 340px;
+    text-align: center;
     margin: 10px;
 }
 .menu-bar {
-    width: 450px;
+    width: 480px;
 }
 .menu-bar a{
     padding: 30px;
 }
 .jobs{
-    color: #490eec;
+    color:  #8f65f1;
     font-size: 20px;
+    text-align: center;
 }
 .applied-job{
     font-size: 20px;
     color: #757575;
 }
 .btn-apply{
-    background: linear-gradient(90deg, #3acadd 0%, #6538e0 100%);
+    background: linear-gradient(90deg, #9b8bf5 0%, #c263ee 100%);
     color: white;
-    border: 1px solid #3acadd;
     border-radius: 8px;
 }
 
